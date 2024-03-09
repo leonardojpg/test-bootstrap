@@ -1,0 +1,12 @@
+.gradiente-cinza {
+    background: linear-gradient(to right, #ffffff, #eeebcc);
+  }
+  h1 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+  }
